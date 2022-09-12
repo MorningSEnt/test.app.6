@@ -70,6 +70,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
   gem 'tzinfo-data'
-  gem 'webpack'
-   
+  gem 'webpack'   
 end
